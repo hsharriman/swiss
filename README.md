@@ -1,4 +1,8 @@
-# Swiss Modernism Poster Generator
+# [Swiss Modernism Poster Generator](https://hsharriman.github.io/core-interaction/project2/index.html)
+![](./img/swissexamples.png)
+
+---
+
 ## About the Project
 This project is meant to be a celebration and exploration of the International Typographic Style, a highly influential typographic movement which first appeared in the early-to-mid 20th century. There are two parts to the website: the generator, and the gallery. The generator is a tool for creation, where users can see their own text instantly rendered on millions of permutations of posters created in the Swiss Style. The gallery, in turn, compares posters created by the generator to historic posters made by masters of the International Typographic Style to one another.
 
